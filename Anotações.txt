@@ -1,0 +1,39 @@
+Links úteis/utilizaveis:
+- https://github.com/RTechSolucoes
+- https://git-scm.com/downloads
+
+
+Alguns comandos a serem lembrados:
+- WINDOWS: cd/abir, cd ../voltar, dir/listar, mkdir, rmdir/del
+- LINUX: cd, ls, mkdir, rm -rf
+
+Lembrar/pesquisar/estudarMaisSobre
+- Blobs, eval
+
+Diversos "GIT BASH": 
+- Echo > - (CRIAR ARQUIVO/PASTA)
+- git init - INICIA O GIT NA PASTA LOCAL
+- git add (.)(-a)(*)(nomeArquivo) - ADICIONA ARQUIVO/PASTA
+- git rm - EXCLUIR O ARQUIVO/PASTA
+- git commit
+- git commit -m "(mensagem)"
+- git config --list - LISTA OS DADOS DE CONFIGURAÇÃO
+- Q - SAIR DO CONFIG
+- git config --global - CORRIGIR ALGUMA INFORMAÇÃO DIVERGENTE DOS DADOS PESSOAIS
+	--unset uner.(suaEscolha)
+- git status - IMPRIMI A SITUAÇÃO DO ARQUIVO/PASTA
+- git remote add origin "linkDejado(https)" - ADICIONA O REPOSITÓRIO DESEJADO
+- git remote -v - LISTAR REPOSITORIOS REMOTO CADASTRADO/VINCULADO
+- git push origin (main)(master)(outroQualquer) - ENVIAR O REPOSITÓRIO PARA O GITHUB
+- git pull origin (main)(master)(outroQualquer) - BAIXA ATUALIZAÇÃO/ALTERAÇÃO DO REPOSITÓRIO NO GITHUB
+- git clone "linkDejado(https)" - CLONA O REPOSITÓRIO DESEJADO
+- git clone - VERIFICAR PARA ONDE APONTA O REPOSITÓRIO
+	ls -a
+- mv (pasta/arquivo) ./ (pasta/arquivo)/ - MOVE ARQUIVO/PASTA
+- git --version
+
+01 - Ao adicionar o arquivo em sua pasta local, deve seguir os seguintes comandos no git:
+- inicializar o git Bash dominio na pasta que será add.
+- comandos: git add (.)(-a)(*), git status, git commit -m "", git push origin main.
+
+02 - 
