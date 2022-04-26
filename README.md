@@ -2,6 +2,8 @@
 Desafio do Projeto sobre Git/GitHub
 
 
-##  Links úteis
+##  Links úteis 
+https://github.com/RTechSolucoes
+https://git-scm.com/downloads
 [Sintaxe base MarkDown](https://www.markdownguide.org/basic-syntax/)
 
