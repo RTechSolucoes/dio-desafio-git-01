@@ -30,10 +30,10 @@ Diversos "GIT BASH":
 - git clone - VERIFICAR PARA ONDE APONTA O REPOSITÓRIO
 	ls -a
 - mv (pasta/arquivo) ./ (pasta/arquivo)/ - MOVE ARQUIVO/PASTA
-- git --version
+- git --verssion
 
 01 - Ao adicionar o arquivo em sua pasta local, deve seguir os seguintes comandos no git:
 - inicializar o git Bash dominio na pasta que será add.
 - comandos: git add (.)(-a)(*), git status, git commit -m "", git push origin main.
 
-02 - atualiizando
+02 -
