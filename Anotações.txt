@@ -36,4 +36,4 @@ Diversos "GIT BASH":
 - inicializar o git Bash dominio na pasta que será add.
 - comandos: git add (.)(-a)(*), git status, git commit -m "", git push origin main.
 
-02 - 
+02 - atualiizando
